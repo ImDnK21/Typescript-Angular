@@ -3,9 +3,9 @@ import '../src/style.css'
 //import './topics/02-object-interface'
 //import './topics/03-functions'
 //import './topics/04-homework-types'
-
+import './topics/06-functions-destructuring'
 // Exercises
-import './exercises/01-functionsEx';
+//import './exercises/01-functionsEx';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 
