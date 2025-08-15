@@ -12,7 +12,6 @@ interface Details {
     year: number;
 
 }
-
 const audioPlayer: AudioVolume = {
     audioVolume: 90,
     songDuration: 36,
@@ -25,7 +24,6 @@ const audioPlayer: AudioVolume = {
 
 const { audioVolume: volume, songDuration: duration,details: detailsAudioPlayer } = audioPlayer;
 const { author } = detailsAudioPlayer;
-
 
 // console.log("Details:" , volume);
 // console.log("Duration:" , duration);
